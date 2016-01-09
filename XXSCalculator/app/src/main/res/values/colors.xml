@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#747474</color>
+    <color name="colorPrimaryDark">#0f0b0f</color>
+    <color name="colorAccent">#304081</color>
+
+    <color name="resViewText">#f70011</color>
+    <color name="resViewBackground">#a107004f</color>
+
+    <color name="btnDown">#343434</color>
+    <color name="btnStroke">#A0A0A0</color>
+    <color name="btnStart">#707070</color>
+    <color name="btnEnd">#404060</color>
+
+</resources>
